@@ -1,0 +1,6 @@
+framework module ScoreAnalyser {
+  umbrella header "ScoreAnalyser-umbrella.h"
+
+  export *
+  module * { export * }
+}

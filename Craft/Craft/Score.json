@@ -1,0 +1,37 @@
+{
+    
+    "score": {
+        "minScore": 300,
+        "maxScore": 900,
+        "Achievedscore": 1000,
+        "date": "21/10/2018"
+    },
+    "levelScore": [
+        {
+            "minScore": 825,
+            "maxScore": 900,
+            "percentage": 19
+        },
+        {
+            "minScore": 800,
+            "maxScore": 824,
+            "percentage": 20
+        },
+        {
+            "minScore": 775,
+            "maxScore": 799,
+            "percentage": 21
+        },
+        {
+            "minScore": 300,
+            "maxScore": 699,
+            "percentage": 21
+        },
+        {
+            "minScore": 300,
+            "maxScore": 699,
+            "percentage": 19
+        }
+    ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "name": "ScoreAnalyser",
+  "version": "1.0.0",
+  "summary": "Library for Score analyser",
+  "description": "this will add all the source files for analazing scores for craft work",
+  "homepage": "http://craft.com",
+  "authors": "Hitesh Ahuja",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "ScoreAnalyser",
+  "resources": "ScoreAnalyser/*.xib",
+  "swift_version": "4.2",
+  "source": {
+    "path": "."
+  }
+}

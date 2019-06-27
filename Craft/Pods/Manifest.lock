@@ -1,0 +1,16 @@
+PODS:
+  - ScoreAnalyser (1.0.0)
+
+DEPENDENCIES:
+  - ScoreAnalyser (from `../ScoreAnalyser`)
+
+EXTERNAL SOURCES:
+  ScoreAnalyser:
+    :path: "../ScoreAnalyser"
+
+SPEC CHECKSUMS:
+  ScoreAnalyser: d44d861f15b00091a3e7a7a14249310ae1c035d7
+
+PODFILE CHECKSUM: 1ee4b5995d01fd6a4c85eec62cd7cd1138d366b0
+
+COCOAPODS: 1.6.1
